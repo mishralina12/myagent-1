@@ -34,7 +34,7 @@
     "@fastify/helmet": "^11.1.0",
     "@fastify/jwt": "^7.2.4",
     "@fastify/rate-limit": "^9.1.0",
-    "drizzle-orm": "^0.33.0",
+    "drizzle-orm": "^0.44.7",
     "postgres": "^3.4.0",
     "passport": "^0.7.0",
     "passport-oauth2": "^1.8.0",
